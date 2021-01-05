@@ -162,6 +162,7 @@
     </filter-mapping>
 ```
 主要就是配置前端控制器  DispaServlet
+关于前端的页面相关的 js页面 后续更细
 
 
 
